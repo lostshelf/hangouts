@@ -1,0 +1,30 @@
+{
+	"name": "hangout-api",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-04-01",
+	"compatibility_flags": ["nodejs_compat"],
+
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "hangout-db",
+			"database_id": "a30b97b2-cef1-4d2c-83df-e305bf8627cf"
+		}
+	],
+
+	"durable_objects": {
+		"bindings": [
+			{
+				"name": "POLL_ROOM",
+				"class_name": "PollRoom"
+			}
+		]
+	},
+
+	"migrations": [
+		{
+			"tag": "v1",
+			"new_sqlite_classes": ["PollRoom"]
+		}
+	]
+}
