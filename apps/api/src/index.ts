@@ -10,7 +10,7 @@ export interface Env {
 const app = new Hono<{ Bindings: Env }>();
 
 app.use('*', cors({
-  origin: ['http://localhost:5173', 'https://hangout.yourdomain.com'],
+  origin: ['http://localhost:5173', 'https://hangout.hadifaraz.me'],
   credentials: true,
 }));
 
