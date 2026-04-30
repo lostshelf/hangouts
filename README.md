@@ -18,13 +18,12 @@ For the friend who gets stuck planning. Send a link, watch availability roll in,
 
 ## ✨ Why?
 
-Every friend group has the same problem: someone wants to hang out, drops it in the group chat, and then watches three people reply with vague half-availability while two more never respond at all.
-
 After a hangout that took way too much pain and effort to plan, I was convinced I could make something to alleviate at least some of my frustrations.
 My biggest problem was having to constantly nag my friends to work out a time. Even if I did somehow manage to get everyone to agree on a date, someone would ask a day before "Wait, it's tomorrow?" and we get sent back to the drawing board.
-This app fixes exactly that. The app deals with your friends and you sit back, relax and wait for your friends to enter their availability.
 
 Existing tools like Doodle and When2Meet are too formal and not intended for casual hangouts between friends. I don't want to send a When2Meet in the group chat.
+
+This app fixes exactly that and more. It deals with your friends while you sit back, relax and wait for your friends to enter their availability.
 
 ## 🚀 Features
 
